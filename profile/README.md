@@ -28,3 +28,5 @@ _If you are…_
 - **A professional web developer or engineering leader:** Consider [becoming a mentor](https://the-collab-lab.codes/mentor/)!
 - **A tech recruiter:** Hire [our alums](https://the-collab-lab.codes/who-we-are/)! They are truly some of the strongest early-career developers you will encounter!
 - **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/) (The Collab Lab is 100% volunteer-driven and free for participants!)
+
+All activities run by or sponsored by The Collab Lab are governed by [our Code of Conduct](https://the-collab-lab.codes/code-of-conduct/).
