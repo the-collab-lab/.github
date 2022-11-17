@@ -16,17 +16,16 @@ with a baseline of skills in [React.js](https://reactjs.org) and an eagerness to
 teams collaborate. Over the course of our 8-week projects, they pair program, submit
 [pull requests (PRs)](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests),
 both give and receive code reviews, demo their work on a weekly basis, and contribute to retrospectives where their
-team works to improve how they work together.
+team improves how they work together.
 
 Our mentors range from recent alums of our program to engineering leaders with 20+ years of experience in the
-industry. You can see [everyone who has been a part of The Collab Lab over the years](https://the-collab-lab.codes/who-we-are/)
-on our website.
+industry. You can see [all of the developers who have been a part of The Collab Lab over the years](https://the-collab-lab.codes/developers/) on our website.
 
 _If you are…_
 
 - **An early-career developer:** Welcome! [Apply to be part of a future cohort!](https://the-collab-lab.codes/apply/)
 - **A professional web developer or engineering leader:** Consider [becoming a mentor](https://the-collab-lab.codes/mentor/)!
-- **A tech recruiter:** Hire [our alums](https://the-collab-lab.codes/who-we-are/)! They are truly some of the strongest early-career developers you will encounter!
+- **A tech recruiter:** Hire [our alums](https://the-collab-lab.codes/developers/)! They are truly some of the strongest early-career developers you will encounter!
 - **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/) (The Collab Lab is 100% volunteer-driven and free for participants!)
 
-All activities run by or sponsored by The Collab Lab are governed by [our Code of Conduct](https://the-collab-lab.codes/code-of-conduct/).
+_All activities run by or sponsored by The Collab Lab are governed by [our Code of Conduct](https://the-collab-lab.codes/code-of-conduct/)._
