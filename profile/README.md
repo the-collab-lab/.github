@@ -24,7 +24,7 @@ industry. You can see [all of the developers who have been a part of The Collab 
 _If you are…_
 
 - **An early-career developer:** Welcome! [Apply to be part of a future cohort!](https://the-collab-lab.codes/apply/)
-- **A professional web developer or engineering leader:** Consider [becoming a mentor](https://the-collab-lab.codes/mentor/)!
+- **A professional web developer or engineering leader:** Consider [becoming a mentor](https://the-collab-lab.codes/volunteer/)!
 - **A tech recruiter:** Hire [our alums](https://the-collab-lab.codes/developers/)! They are truly some of the strongest early-career developers you will encounter!
 - **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/) (The Collab Lab is 100% volunteer-driven and free for participants!)
 
