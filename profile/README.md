@@ -18,7 +18,7 @@ _If you are…_
 
 - **Someone with expertise to share:** Consider giving a [Tech Talk](https://the-collab-lab.codes/tech-talks/) to our community!
 
-- **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/) (The Collab Lab is 100% volunteer-driven and free for participants!)
+- **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/) The Collab Lab is 100% volunteer-driven and free for participants. We like to say that our mentors make Collab Lab happen, but our donors make it possible!
 
 ![multi-colored collage of photos of past collab lab participants](https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg)
 
