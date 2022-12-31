@@ -14,7 +14,7 @@ _If you are…_
 
 - **A professional web developer or engineering leader:** Consider [becoming a mentor](https://the-collab-lab.codes/volunteer/)!
 
-- **A tech recruiter:** Hire [our alums](https://the-collab-lab.codes/developers/)! They are truly some of the strongest early-career developers you will encounter!
+- **A tech recruiter:** Hire [our alums](https://the-collab-lab.codes/developers/)! They are truly some of the strongest early-career developers you will meet!
 
 - **Someone with expertise to share:** Consider giving a [Tech Talk](https://the-collab-lab.codes/tech-talks/) to our community!
 
