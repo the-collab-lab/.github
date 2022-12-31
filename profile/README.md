@@ -1,6 +1,6 @@
 ## We are changing tech by helping early-career developers get jobs
 
-**Breaking into tech can be life changing.** It’s not uncommon for someone to double their previous salary within a year or two of getting that first tech job. Yet the industry is rife with gatekeeping, systematically excluding early-career developers—espcially women and people of color—from its ranks.
+**Breaking into tech can be life changing.** It’s not uncommon for someone to double their previous salary within a year or two of getting that first tech job. Yet the industry is rife with gatekeeping, systematically excluding early-career developers—disproportionately women and people of color—from its ranks.
 
 **The Collab Lab exists to help early-career developers,** especially ones from historically excluded groups, land that first job in tech. We do that by providing remote, collaborative project practice where developers are mentored by professionals in the field. We augment the project work with targeted career advice and feedback to help developers get and do well in tech interviews.
 
