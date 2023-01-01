@@ -20,6 +20,6 @@ _If you are…_
 
 - **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/). The Collab Lab is 100% volunteer-driven and free for participants. We like to say that our mentors make Collab Lab happen, but our donors make it possible!
 
-<img src="https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg" alt="multi-colored collage of photos of past collab lab participants" style="width: 50%;" />
+![multi-colored collage of photos of past collab lab participants](https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg)
 
 _All activities run by or sponsored by The Collab Lab are governed by [our Code of Conduct](https://the-collab-lab.codes/code-of-conduct/)._
