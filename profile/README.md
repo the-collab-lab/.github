@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg" alt="multi-colored collage of photos of past collab lab participants" style="float: right;margin: 0 0 1em 1em;width: 50%;" />
+
 ## We are changing tech by helping early-career developers get jobs
 
 **Breaking into tech can be life changing.** It’s not uncommon for someone to double their previous salary within a year or two of getting that first tech job. Yet the industry is rife with gatekeeping, systematically excluding early-career developers—disproportionately women and people of color—from its ranks.
