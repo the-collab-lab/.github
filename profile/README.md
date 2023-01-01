@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg" alt="multi-colored collage of photos of past collab lab participants" style="position: absolute;top: 0;right: 0;width: 50%;" />
-
 ## We are changing tech by helping early-career developers get jobs
 
 **Breaking into tech can be life changing.** It’s not uncommon for someone to double their previous salary within a year or two of getting that first tech job. Yet the industry is rife with gatekeeping, systematically excluding early-career developers—disproportionately women and people of color—from its ranks.
@@ -22,6 +20,6 @@ _If you are…_
 
 - **Someone who just appreciates what we do:** Consider [donating to help us cover our operating costs](https://the-collab-lab.codes/about-us/). The Collab Lab is 100% volunteer-driven and free for participants. We like to say that our mentors make Collab Lab happen, but our donors make it possible!
 
-![multi-colored collage of photos of past collab lab participants](https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg)
+<img src="https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg" alt="multi-colored collage of photos of past collab lab participants" style="width: 50%;" />
 
 _All activities run by or sponsored by The Collab Lab are governed by [our Code of Conduct](https://the-collab-lab.codes/code-of-conduct/)._
