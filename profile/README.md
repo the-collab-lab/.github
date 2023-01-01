@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg" alt="multi-colored collage of photos of past collab lab participants" style="float: right;margin: 0 0 1em 1em;width: 50%;" />
+<img src="https://user-images.githubusercontent.com/4306/210125281-c2a5e8f1-5330-4e38-b696-61a539b26621.jpg" alt="multi-colored collage of photos of past collab lab participants" style="position: absolute;top: 0;right: 0;width: 50%;" />
 
 ## We are changing tech by helping early-career developers get jobs
 
